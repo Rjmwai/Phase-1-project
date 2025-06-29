@@ -1,0 +1,10 @@
+{
+  "rates": [
+    { "currency": "USD", "rate": 22.981, "amount": 1 },
+    { "currency": "CAD", "rate": 16.482, "amount": 1 },
+    { "currency": "AUD", "rate": 14.932, "amount": 1 },
+    { "currency": "EUR", "rate": 24.975, "amount": 1 },
+    { "currency": "GBP", "rate": 29.123, "amount": 1 },
+    { "currency": "CZK", "rate": 1, "amount": 1 }
+  ]
+}
